@@ -73,4 +73,4 @@ classify_soil <- function(sand, silt, clay) {
 }
 
 # Apply the function to your data
-soil$sc <- apply(soil[, c('SAND', 'SILT', 'CLAY')], 1, function(row) classify_soil(row[1], row[2], row[3])) 
+soil$sc <- apply(soil[, c('SAND', 'SILT', 'CLAY')], 1, function(row) classify_soil(row[1], row[2], row[3]))		# Classify soil texture according to USDA classification (c('SAND', 'SILT', 'CLAY'))
