@@ -15,4 +15,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+* [USDA NRCS](https://www.nrcs.usda.gov/resources/education-and-teaching-materials/soil-texture-calculator)
 * [Dr Saurav Das](https://www.linkedin.com/pulse/visualizing-soil-texture-data-using-r-dr-saurav-das-y6qtc)
